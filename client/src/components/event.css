@@ -1,0 +1,74 @@
+.onsale{
+    /* margin-top: 20px; */
+    display: inline-block;
+    /* padding: 15px 30px; */
+    /* font-size: 13px; */
+    /* cursor: pointer; */
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+}
+
+.offsale{
+    /* margin-top: 20px; */
+    display: inline-block;
+    /* padding: 15px 30px; */
+    /* font-size: 13px; */
+    /* cursor: pointer; */
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+}
+
+.cancelled{
+    /* margin-top: 20px; */
+    display: inline-block;
+    /* padding: 15px 30px; */
+    /* font-size: 13px; */
+    /* cursor: pointer; */
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+}
+
+.postponed{
+    /* margin-top: 20px; */
+    display: inline-block;
+    /* padding: 15px 30px; */
+    /* font-size: 13px; */
+    /* cursor: pointer; */
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+}
+
+.rescheduled{
+    /* margin-top: 20px; */
+    display: inline-block;
+    /* padding: 15px 30px; */
+    /* font-size: 13px; */
+    /* cursor: pointer; */
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+}
